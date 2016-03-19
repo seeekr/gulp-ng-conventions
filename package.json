@@ -1,6 +1,6 @@
 {
   "name": "gulp-ng-conventions",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "",
   "repository": "seeekr/gulp-ng-conventions",
   "main": "build/index.js",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "ng-conventions": "^0.1.0",
+    "ng-conventions": "^0.2.0",
     "through2": "^2.0.1"
   },
   "devDependencies": {
